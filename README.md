@@ -61,17 +61,22 @@ O caderno é alimentado por 11 fontes selecionadas entre artigos técnicos, docu
 > **"Qual é a diferença entre a programação tradicional e o Vibe Coding?"**
 
 **Resposta do Caderno:**
-> Na programação tradicional, o foco do desenvolvedor está nos detalhes de implementação, escrevendo comandos, sintaxe e regras manualmente linha por linha. Já no *Vibe Coding*, o desenvolvedor/criador atua descrevendo o objetivo e a funcionalidade em linguagem natural, cabendo à IA gerar o código, depurar e ajustar a aplicação em um fluxo conversacional.
+> A principal diferença entre a programação tradicional e o Vibe Coding está na forma como o software é construído e no papel
+> desempenhado pelo criador. Na programação tradicional, o desenvolvedor escreve o código manualmente linha por linha,
+>  o que exige alto conhecimento sintático e técnico de linguagens de programação, já no Vibe Coding, a aplicação é gerada
+> a partir de instruções em linguagem natural fornecidas a um assistente de Inteligência Artificial. Dessa forma, o foco
+> desloca-se da implementação técnica detalhada para os objetivos e resultados do projeto, transformando o usuário de um
+> codificador/depurador manual em um guia que orienta, testa e refina a aplicação por meio de um fluxo conversacional.
 
 ### Pergunta 2
 > **"Como funcionam as três camadas da arquitetura de um Segundo Cérebro?"**
 
 **Resposta do Caderno:**
-> A estrutura de um Segundo Cérebro baseada em IA é organizada em três camadas:
-> 1. **Fontes Brutas:** Arquivos originais preservedos sem alteração (artigos, PDFs, transcrições e repositórios) em pastas como `raw/`.
-> 2. **Wiki Compilada:** Páginas em Markdown que sintetizam conceitos, entidades e conexões identificadas nas fontes originais.
-> 3. **Regras de Operação:** Arquivos de diretrizes (como um `CLAUDE.md` ou regras de sistema) que definem como o agente de IA deve ler os materiais, citar evidências e atualizar índices.
-
+> A arquitetura de um Segundo Cérebro funciona por meio de três camadas integradas: as fontes brutas (raw/), que armazenam e
+> preservam intactos os arquivos originais (como artigos, papers e transcrições) servindo de matéria-prima, a wiki compilada,
+>  formada por páginas em Markdown que sintetizam continuamente os conceitos, entidades e conexões entre esses materiais e as
+>  regras de operação (como um arquivo CLAUDE.md), que estabelecem as diretrizes para o agente de IA ingerir novos conteúdos,
+>  citar evidências, registrar mudanças e manter o sistema organizado.
 ---
 
 ## 5. Materiais Gerados e Evidências
