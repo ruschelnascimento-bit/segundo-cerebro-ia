@@ -81,6 +81,6 @@ O caderno é alimentado por 11 fontes selecionadas entre artigos técnicos, docu
 
 ## 5. Materiais Gerados e Evidências
 
-Na pasta `/materials` e `/assets` deste repositório encontram-se:
+Na pasta `/materials` e `/prints` deste repositório encontram-se:
 - Capturas de tela (prints) das conversas no chat com as devidas citações ativas.
 - Resumos e guias de estudos exportados a partir do Gemini Notebook.
