@@ -2,7 +2,7 @@
 
 Este repositório documenta a criação e organização de um "Segundo Cérebro" construído no **Gemini Notebook**, com foco em gestão do conhecimento, automação e desenvolvimento auxiliado por Inteligência Artificial.
 
-- **Link do Caderno no Gemini Notebook:** 🤖 [Criando um Segundo Cérebro com Inteligência Artificial](https://gemini.google.com/notebook/4e9719f1-11b0-4219-8c1c-59a89fe1c95c)
+- **Link do Caderno no Gemini Notebook:** 🤖 [Criando um Segundo Cérebro com Inteligência Artificial]([https://gemini.google.com/notebook/4e9719f1-11b0-4219-8c1c-59a89fe1c95c)
 
 ---
 
